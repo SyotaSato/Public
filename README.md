@@ -1,3 +1,2 @@
-# Public
-This repository is for testing.
-Test push.
+# About
+This repository is for learnig Python.
